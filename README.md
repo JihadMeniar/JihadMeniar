@@ -6,11 +6,11 @@
 
 - 🌱 J'apprends actuellement **ReactNative, Express, jQuery, PHP ...**
 
-- 👨‍💻 Tous mes projets sont disponibles sur mon portfolio : https://jihadmeniar.github.io/portfolio/
+- 👨‍💻 Tous mes **projets** sont disponibles sur mon **portfolio** : https://jihadmeniar.github.io/portfolio/
 
 - 📫 Me contacter **jihad.meniar@outlook.fr**
 
-- 📄 Mes expériences disponible sur mon CV ( bas de page de mon portfolio ! )
+- 📄 Mes expériences disponible sur mon **CV** ( bas de page de mon portfolio ! )
 
 - ⚡ Fun fact : **j'adore apprendre !**
 
