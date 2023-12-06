@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur la solution **Dolibarr** pour **FugaFormation**
 
-- 🌱 J'apprends actuellement **React, Symphony, jQuery, Vue.js ...**
+- 🌱 J'apprends actuellement **ReactNative, Express, jQuery, Vue.js ...**
 
 - 👨‍💻 Tous mes projets sont disponibles sur mon portfolio : https://jihadmeniar.github.io/portfolio/
 
