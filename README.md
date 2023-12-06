@@ -14,10 +14,7 @@
 
 - ⚡ Fun fact : **j'adore apprendre !**
 
-<h3 align="left">Mes réseaux :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jihad-meniar-400a91227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jihad-meniar-400a91227/" height="30" width="40" /></a>
-</p>
+<br>
 
 <h3 align="left">Langagues et outils :</h3>
 <h4> Front-End </h4>
@@ -64,4 +61,9 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
   </p>
+
+  <h3 align="left">Mes réseaux :</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jihad-meniar-400a91227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jihad-meniar-400a91227/" height="30" width="40" /></a>
+</p>
   
