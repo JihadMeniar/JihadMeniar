@@ -10,7 +10,7 @@
 
 - 📫 Me contacter **jihad.meniar@outlook.fr**
 
-- 📄 Mes expériences disponible sur mon **CV** ( bas de page de mon portfolio ! )
+- 📄 Mes expériences disponible sur mon **CV** ( dans le footer de mon portfolio ! )
 
 - ⚡ Fun fact : **j'adore apprendre !**
 
