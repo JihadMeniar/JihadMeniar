@@ -12,7 +12,7 @@
 
 - 📄 Mes expériences disponible sur mon **CV** ( dans le footer de mon portfolio ! )
 
-- ⚡ Fun fact : **j'adore apprendre !**
+- ⚡ Fun fact : **j'adore l'univers informatique !**
 
 <h3 align="left">Langagues et outils :</h3>
 
