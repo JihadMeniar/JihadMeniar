@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Jihad</h1>
-<h3 align="center">Développeur Web & Application en 3ème année de Bachelor en alternance !</h3>
+<h3 align="center">Développeur diplômé d'une Licence en Développement Web & Application !</h3>
 <br>
 
 - 🔭 Je travaille actuellement sur la solution **Dolibarr** pour **FugaFormation**
