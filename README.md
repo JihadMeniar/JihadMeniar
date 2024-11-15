@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Meniar Jihad</h1>
+<h1 align="center">Salut 👋, je suis Jihad</h1>
 <h3 align="center">Développeur Web & Application en 3ème année de Bachelor en alternance !</h3>
 <br>
 
@@ -12,7 +12,7 @@
 
 - 📄 Mes expériences disponible sur mon **CV** ( dans le footer de mon portfolio ! )
 
-- ⚡ Fun fact : **j'adore l'univers informatique !**
+- ⚡ Fun fact : **j'ai touché pour la première fois à un ordinateur à l'âge de 6ans !**
 
 <h3 align="left">Langagues et outils :</h3>
 
