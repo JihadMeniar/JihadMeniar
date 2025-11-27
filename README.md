@@ -2,7 +2,6 @@
 <h3 align="center">Passionné diplômé d'une licence en développement Web & Application !</h3>
 <br>
 
-- 🔭 Je travaille actuellement sur la solution **Dolibarr** pour **FugaFormation**
 
 - 🌱 J'apprends actuellement **ReactNative, Express, jQuery, PHP ...**
 
